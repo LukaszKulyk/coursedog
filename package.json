@@ -1,0 +1,24 @@
+{
+  "name": "coursedog",
+  "version": "1.0.0",
+  "description": "Hello, thaks for giving me chance to complete this task even when I was late last time! Below you will find few informations ablout the code.",
+  "main": "index.js",
+  "dependencies": {
+    "cypress-xpath": "^1.6.2",
+    "cypress": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszKulyk/coursedog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszKulyk/coursedog/issues"
+  },
+  "homepage": "https://github.com/LukaszKulyk/coursedog#readme"
+}
